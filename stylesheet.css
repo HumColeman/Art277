@@ -1,0 +1,103 @@
+body {
+
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.header {
+
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(98, 223, 161);
+    margin: 10px;
+    height: 80px;
+    border-color: green;
+    border-width: 100px;
+    
+    padding-top: 30px;
+    
+}
+span {
+    color: yellow;
+}
+.ul a {
+    text-decoration: none;
+    font-size: 150%;
+    padding: 20px;
+    padding-right: 10px;
+    padding-top: ;
+    color: honeydew;
+}
+.ul :hover {
+    color: rgb(112, 75, 245);
+    text-decoration: underline;
+    
+}
+
+
+}
+.main p {
+    margin: 10px;
+    font-size:300% ;
+}
+.banner {
+    margin: 10px;
+
+}
+.banner img {
+
+    width:1330px;
+    height:500px;
+}
+#footer {
+    background-color: rgb(98, 223, 161);
+    margin: 10px;
+    height: 90px;
+}
+#footer h1 {
+
+  text-align: center;
+ padding-top: 25px;
+}
+#header h1 {
+
+    padding-top: 25px;
+    text-align: left;
+   
+}
+#header a {
+
+    text-align: right;
+    list-style-type: none;
+    padding: 10px 10px;
+}
+#header  a {
+
+    display: inline;
+}
+form {
+
+    font-size: 200%;
+    background-color: rgb(121, 248, 199);
+   margin: 3px 300px;
+}
+.hr {
+
+    text-align: center;
+    
+}
+input {
+
+    height: 20px;
+    border-radius: 10px 10px;
+    width: 90%;
+  padding: 10px;
+}
+#sub {
+
+  background-color: rgb(55, 163, 55);
+  height: 50px;
+}
+.table{ text-align: center;
+    }
